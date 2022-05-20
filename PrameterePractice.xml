@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<!-- Test -->
+	<test name="Test1">
+		<!-- parameter name="URL" value="www.youtube1.com"><parameter -->
+		<classes>
+			<class name="udemy.excersise5"></class>
+		</classes>
+	</test>
+
+	<!-- Test -->
+	<test name="Test2">
+		<parameter name="URL" value="www.youtube2.com"></parameter>
+		<parameter name="LINK" value="www.youtube3.com"></parameter>
+		<classes>
+			<class name="udemy.excersise6"></class>
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

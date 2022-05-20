@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="TestOne">
+		<groups>
+			<run>
+				<include name="somke"></include>
+			</run>
+		</groups>
+		<packages>
+			<package name="udemy"></package>
+		</packages>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

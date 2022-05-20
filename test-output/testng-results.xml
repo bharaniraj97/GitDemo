@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-18T07:23:37 IST" name="Suite" finished-at="2022-05-18T07:23:37 IST" duration-ms="248">
+    <groups>
+    </groups>
+    <test started-at="2022-05-18T07:23:37 IST" name="Test1" finished-at="2022-05-18T07:23:37 IST" duration-ms="117">
+      <class name="udemy.practice2">
+        <test-method signature="accMethod(java.lang.String,int)[pri:0, instance:udemy.practice2@363ee3a2]" started-at="2022-05-18T07:23:37 IST" name="accMethod" data-provider="accDP" finished-at="2022-05-18T07:23:37 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bharani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[758297]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accMethod -->
+        <test-method signature="accMethod(java.lang.String,int)[pri:0, instance:udemy.practice2@363ee3a2]" started-at="2022-05-18T07:23:37 IST" name="accMethod" data-provider="accDP" finished-at="2022-05-18T07:23:37 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Amutha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[758262]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accMethod -->
+        <test-method signature="accMethod(java.lang.String,int)[pri:0, instance:udemy.practice2@363ee3a2]" started-at="2022-05-18T07:23:37 IST" name="accMethod" data-provider="accDP" finished-at="2022-05-18T07:23:37 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Anu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[785929]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accMethod -->
+        <test-method signature="mobMethod(long)[pri:0, instance:udemy.practice2@363ee3a2]" started-at="2022-05-18T07:23:37 IST" name="mobMethod" data-provider="mobNUMDP" finished-at="2022-05-18T07:23:37 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8956783296]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobMethod -->
+        <test-method signature="mobMethod(long)[pri:0, instance:udemy.practice2@363ee3a2]" started-at="2022-05-18T07:23:37 IST" name="mobMethod" data-provider="mobNUMDP" finished-at="2022-05-18T07:23:37 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8956783296]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobMethod -->
+        <test-method signature="mobMethod(long)[pri:0, instance:udemy.practice2@363ee3a2]" started-at="2022-05-18T07:23:37 IST" name="mobMethod" data-provider="mobNUMDP" finished-at="2022-05-18T07:23:37 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[8956783296]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobMethod -->
+      </class> <!-- udemy.practice2 -->
+    </test> <!-- Test1 -->
+    <test started-at="2022-05-18T07:23:37 IST" name="udemy.Practice2" finished-at="2022-05-18T07:23:37 IST" duration-ms="1">
+    </test> <!-- udemy.Practice2 -->
+  </suite> <!-- Suite -->
+</testng-results>
